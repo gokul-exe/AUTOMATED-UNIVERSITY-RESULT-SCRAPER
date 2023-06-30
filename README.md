@@ -34,8 +34,8 @@ To run this script, you need the following:
 3.Run the script using the following command:
 
   ```shell
-   pip install -r requirements.txt
-   ```
+   python main.py
+  ```
 
 4.Follow the instructions displayed on the terminal to provide the number of students and the starting roll number.
 
