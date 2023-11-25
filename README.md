@@ -26,6 +26,9 @@ To run this script, you need the following:
 
 3.Place the downloaded msedgedriver.exe file in the "webdriver" folder of the project.
 
+## VIDEO
+https://github.com/gokuls-subramanian/AUTOMATED-UNIVERSITY-RESULT-SCRAPER/assets/96585296/0b40a29d-7eb1-40a5-a9c4-b129ea09b53f
+
 ## ▶️ Usage
 1.Open a terminal or command prompt.
 
